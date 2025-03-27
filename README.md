@@ -30,6 +30,19 @@ ex)DBMS-> 보통 데이터베이스가 설치된 컴퓨터를 의미 (보통 운
 
 But, 네이버의 경우 분리해둔다. 
 
+- ISP(Information Stragetic Planning)
+
+-BRP(업무 재설계)
+
+-ERP(전사적자원관리) : 구매, 제조, 배송 판매 
+
+-CRP(고객관리) 
+
+-SCM(공급망 관리) 공급 업체의 공급 업체, 공급업체, 회사,고객, 고객의 고객
+
+-SAP- 
+독일의 소프트웨어 회사로 ERP 프로그램 만듦
+
 # software_engineering_week2
 
 프로세스  
